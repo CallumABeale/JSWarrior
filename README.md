@@ -1,2 +1,2 @@
 # JSWarrior
-JavaScript Warrior challenge
+Callum's JavaScript Warrior challenge
